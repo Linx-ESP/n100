@@ -1,6 +1,6 @@
 # Apps
   - [GCam](https://www.celsoazevedo.com/files/android/google-camera/dev-suggested/)
-    - The Dise 7.2 / 7.3 (AWB para solucionar tinte verde en HDR)
+    - MGC Cam 8
     - GCam 4 para sin fallos
   - [Instander](https://thedise.me/instander/repo)
   - [YT Vanced](https://vancedapp.com/)
